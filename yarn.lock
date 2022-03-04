@@ -883,7 +883,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@nestjs/core@npm:*, @nestjs/core@npm:^8.0.0":
+"@nestjs/core@npm:^8.0.0":
   version: 8.4.0
   resolution: "@nestjs/core@npm:8.4.0"
   dependencies:
@@ -5871,7 +5871,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"reflect-metadata@npm:^0.1.13":
+"reflect-metadata@npm:*, reflect-metadata@npm:^0.1.13":
   version: 0.1.13
   resolution: "reflect-metadata@npm:0.1.13"
   checksum: 798d379a7b6f6455501145419505c97dd11cbc23857a386add2b9ef15963ccf15a48d9d15507afe01d4cd74116df8a213247200bac00320bd7c11ddeaa5e8fb4
