@@ -883,7 +883,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@nestjs/core@npm:^8.0.0":
+"@nestjs/core@npm:*, @nestjs/core@npm:^8.0.0":
   version: 8.4.0
   resolution: "@nestjs/core@npm:8.4.0"
   dependencies:
